@@ -2,7 +2,7 @@
 
 This project demonstrates how to interface an LCD display with an 8051 microcontroller to display the name "VYANKATESH<<<". The code is written in Embedded C, and the project includes Proteus simulations, PCB design, and a 3D view.
 
-## roject Overview
+## Project Overview
   This project uses:
 
   - 8051 Microcontroller to control the LCD.
